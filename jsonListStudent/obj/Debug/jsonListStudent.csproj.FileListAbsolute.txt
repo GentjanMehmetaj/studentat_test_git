@@ -1,0 +1,11 @@
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\bin\Debug\jsonListStudent.exe.config
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\bin\Debug\jsonListStudent.exe
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\bin\Debug\jsonListStudent.pdb
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\obj\Debug\jsonListStudent.csprojAssemblyReference.cache
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\obj\Debug\jsonListStudent.csproj.CoreCompileInputs.cache
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\obj\Debug\jsonListStudent.csproj.CopyComplete
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\obj\Debug\jsonListStudent.exe
+C:\Users\albana\source\repos\jsonListStudent\jsonListStudent\obj\Debug\jsonListStudent.pdb
