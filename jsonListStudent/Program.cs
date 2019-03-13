@@ -40,7 +40,8 @@ namespace jsonListStudent
                         {
                             email ="ainstainAlbert@gmail.com",
                             country ="Germany",
-                            telNumber="00000000000"
+                            telNumber="00000000000",
+                            gender="Male"
                         }
 
                     }
@@ -55,7 +56,8 @@ namespace jsonListStudent
                         {
                             email ="KamyAlbert@gmail.com",
                             country ="United State",
-                            telNumber="111111111"
+                            telNumber="111111111",
+                             gender="Male"
                         }
 
                     }
@@ -70,7 +72,8 @@ namespace jsonListStudent
                         {
                             email ="NikollaiGogol@gmail.com",
                             country ="Rusia",
-                            telNumber="222222222"
+                            telNumber="222222222",
+                             gender="Male"
                         }
 
                     }
@@ -86,7 +89,8 @@ namespace jsonListStudent
                     {
                         email ="albana.sufaj@gmail.com",
                         country ="Albania",
-                        telNumber="068 80 87 218"
+                        telNumber="068 80 87 218",
+                         gender="Female"
                     }
 
                 }
@@ -102,7 +106,8 @@ namespace jsonListStudent
                     {
                         email ="gent.mehmetaj@gmail.com",
                         country ="Albania",
-                        telNumber="069 40 49 178"
+                        telNumber="069 40 49 178",
+                         gender="Male"
                     }
 
                 }

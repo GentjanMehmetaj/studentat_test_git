@@ -11,5 +11,6 @@ namespace jsonListStudent
         public string email { get; set; }
         public string telNumber { get; set; }
         public string country { get; set; }
+        public string gender { get; set; }
     }
 }
