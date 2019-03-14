@@ -9,7 +9,8 @@ namespace jsonListStudent
     class student
     { 
         public string fName { get; set; }
-        public string lName { get; set; }
+        public string lName { get; set;} 
+        public string meadleName {get;set;}
         public int age { get; set; }
         public List<TePergjithshme> TeDhenaPergjithesuese { get; set; }
     }

@@ -33,6 +33,7 @@ namespace jsonListStudent
                 new student
                 { fName = "Albert",
                     lName = "Ainstein",
+                    meadleName="H.",
                     age = 30,
                     TeDhenaPergjithesuese = new List<TePergjithshme>
                     {
@@ -49,6 +50,7 @@ namespace jsonListStudent
                 new student
                 { fName = "Albert",
                     lName = "Kamy",
+                    meadleName="T. ",
                     age = 60,
                     TeDhenaPergjithesuese = new List<TePergjithshme>
                     {
@@ -65,6 +67,7 @@ namespace jsonListStudent
                 new student
                 { fName = "Nikollai",
                     lName = "Gogol",
+                    meadleName="P.",
                     age = 54,
                     TeDhenaPergjithesuese = new List<TePergjithshme>
                     {
@@ -82,6 +85,7 @@ namespace jsonListStudent
                 {
                 fName = "Albana",
                 lName = "Sufaj",
+                meadleName="F.",
                 age = 36,
                 TeDhenaPergjithesuese = new List<TePergjithshme>
                 {
@@ -99,6 +103,7 @@ namespace jsonListStudent
                 {
                 fName = "Silvana",
                 lName = "Mehmetaj",
+                meadleName="Z.",
                 age = 30,
                 TeDhenaPergjithesuese = new List<TePergjithshme>
                 {
@@ -117,6 +122,7 @@ namespace jsonListStudent
                 {
                       fName = "Gentjan",
                 lName = "Mehmetaj",
+                meadleName="Z.",
                 age = 36,
                 TeDhenaPergjithesuese = new List<TePergjithshme>
                 {
@@ -137,12 +143,14 @@ namespace jsonListStudent
             foreach (var st in listStudetash)
             {
                 Console.WriteLine(st.fName);
+                Console.WriteLine(st.meadleName);
                 Console.WriteLine(st.lName);
                 Console.WriteLine(st.age);
                 foreach (var el in st.TeDhenaPergjithesuese)
                 {
                     Console.WriteLine(el.email);
                     Console.WriteLine(el.country);
+
                     Console.WriteLine(el.telNumber);
                     Console.WriteLine("\n");
                 }
