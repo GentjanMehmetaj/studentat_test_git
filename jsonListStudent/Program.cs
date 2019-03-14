@@ -97,6 +97,24 @@ namespace jsonListStudent
                 },
                 new student
                 {
+                fName = "Silvana",
+                lName = "Mehmetaj",
+                age = 30,
+                TeDhenaPergjithesuese = new List<TePergjithshme>
+                {
+                    new TePergjithshme()
+                    {
+                        email ="SS@gmail.com",
+                        country ="Albania",
+                        telNumber="068 ......",
+                         gender="Female"
+                    }
+
+                }
+                },
+
+                new student
+                {
                       fName = "Gentjan",
                 lName = "Mehmetaj",
                 age = 36,
